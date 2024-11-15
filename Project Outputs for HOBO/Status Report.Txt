@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [HOBO.PrjPcb]
+   Generated File[HOBO.TXT]
+   Generated File[HOBO.LDP]
+   Generated File[HOBO.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 5:41:48 AM On 3/23/2024

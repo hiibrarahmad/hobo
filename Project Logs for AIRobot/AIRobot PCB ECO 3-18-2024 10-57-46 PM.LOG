@@ -1,0 +1,42 @@
+Removed Pin From Net: NetName=RET Pin=C1-1
+Removed Pin From Net: NetName=D3 Pin=C1-2
+Removed Pin From Net: NetName=D5 Pin=C1-3
+Removed Pin From Net: NetName=D7 Pin=C1-4
+Removed Pin From Net: NetName=D9 Pin=C1-5
+Removed Pin From Net: NetName=PCLK Pin=C1-6
+Removed Pin From Net: NetName=SYNC Pin=C1-7
+Removed Pin From Net: NetName=SIOC Pin=C1-8
+Removed Pin From Net: NetName=+3.3V Pin=C1-9
+Removed Pin From Net: NetName=GND Pin=C1-10
+Removed Pin From Net: NetName=SIOD Pin=C1-11
+Removed Pin From Net: NetName=HREF Pin=C1-12
+Removed Pin From Net: NetName=XCLK Pin=C1-13
+Removed Pin From Net: NetName=D8 Pin=C1-14
+Removed Pin From Net: NetName=D6 Pin=C1-15
+Removed Pin From Net: NetName=D4 Pin=C1-16
+Removed Pin From Net: NetName=D2 Pin=C1-17
+Removed Pin From Net: NetName=GND Pin=C1-18
+Removed Pin From Net: NetName=GND Pin=S1-1
+Change Component Comment : Designator=C7 Old Comment=JP3 New Comment=SERVO
+Change Component Comment : Designator=C6 Old Comment=JP4 New Comment=USB
+Change Component Comment : Designator=C1 Old Comment=JP9x2 New Comment=CAM
+Added Pin To Net: NetName=GND Pin=C1-1
+Added Pin To Net: NetName=SIOD Pin=C1-2
+Added Pin To Net: NetName=HREF Pin=C1-3
+Added Pin To Net: NetName=XCLK Pin=C1-4
+Added Pin To Net: NetName=D8 Pin=C1-5
+Added Pin To Net: NetName=D6 Pin=C1-6
+Added Pin To Net: NetName=D4 Pin=C1-7
+Added Pin To Net: NetName=D2 Pin=C1-8
+Added Pin To Net: NetName=GND Pin=C1-9
+Added Pin To Net: NetName=RET Pin=C1-10
+Added Pin To Net: NetName=D3 Pin=C1-11
+Added Pin To Net: NetName=D5 Pin=C1-12
+Added Pin To Net: NetName=D7 Pin=C1-13
+Added Pin To Net: NetName=D9 Pin=C1-14
+Added Pin To Net: NetName=PCLK Pin=C1-15
+Added Pin To Net: NetName=SYNC Pin=C1-16
+Added Pin To Net: NetName=SIOC Pin=C1-17
+Added Pin To Net: NetName=+3.3V Pin=C1-18
+Added Member To Class: ClassName=AIRobot Member=Component T3 AMS1117
+Added Room: Name=AIRobot

@@ -1,0 +1,18 @@
+Added Pin To Net: NetName=GND Pin=pw1-41_1
+Added Pin To Net: NetName=GND Pin=pw1-41_2
+Added Pin To Net: NetName=GND Pin=pw1-41_3
+Added Pin To Net: NetName=GND Pin=pw1-41_4
+Added Pin To Net: NetName=GND Pin=pw1-41_5
+Added Pin To Net: NetName=GND Pin=pw1-41_6
+Added Pin To Net: NetName=GND Pin=pw1-41_7
+Added Pin To Net: NetName=GND Pin=pw1-41_8
+Added Pin To Net: NetName=GND Pin=pw1-41_9
+Added Member To Class: ClassName=AIRobot Member=Component C1 MPU6050
+Added Member To Class: ClassName=AIRobot Member=Component C2 CAM
+Added Member To Class: ClassName=AIRobot Member=Component C3 SD Card
+Added Member To Class: ClassName=AIRobot Member=Component C5 10uF
+Added Member To Class: ClassName=AIRobot Member=Component C6 100pF
+Added Member To Class: ClassName=AIRobot Member=Component C7 10uF
+Added Member To Class: ClassName=AIRobot Member=Component T1 LCD
+Added Member To Class: ClassName=AIRobot Member=Component T3 Max98357A
+Added Room: Name=AIRobot
